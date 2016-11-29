@@ -1,0 +1,1 @@
+# angular-schema-form-bootstrap-switch
