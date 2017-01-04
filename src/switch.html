@@ -1,0 +1,7 @@
+<div class="form-group schema-form-checkbox {{form.htmlClass}}" ng-class="{\'has-error\': form.disableErrorState !== true && hasError(), \'has-success\': form.disableSuccessState !== true && hasSuccess()}">
+   <label class="control-label {{form.labelHtmlClass}}" ng-show="showTitle()">{{ form.title }}</label>
+   <input bs-switch data-indeterminate="false" type="checkbox" sf-changed="form" ng-disabled="form.readonly" sf-changed="form" schema-validate="form" ng-model="$$value$$"
+          ng-model-options="form.ngModelOptions" schema-validate="form" class="{{form.fieldHtmlClass}}"
+          name="{{form.key.slice(-1)[0]}}"/></label>
+   <div class="help-block" sf-message="form.description"></div>
+</div>

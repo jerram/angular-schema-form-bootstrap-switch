@@ -1,0 +1,39 @@
+{
+  "name": "angular-schema-form-bootstrap-switch",
+  "version": "0.1.0",
+  "description": "This plugin is adapting the bootstrap switch widget to the angular schema form",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^1.8.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jscs": "^1.1.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-umd": "",
+    "gulp-uglify": "^1.5.3",
+    "gulp-webserver": "^0.9.1",
+    "streamqueue": "0.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JChampigny/angular-schema-form-bootstrap-switch.git"
+  },
+  "keywords": [
+    "angular",
+    "schema",
+    "form",
+    "file",
+    "bootstrap",
+    "switch"
+  ],
+  "author": "Jerome Champigny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JChampigny/angular-schema-form-bootstrap-switch/issues"
+  },
+  "homepage": "https://github.com/JChampigny/angular-schema-form-bootstrap-switch#readme"
+}
