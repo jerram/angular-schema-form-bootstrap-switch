@@ -28,3 +28,25 @@ switch | a pickadate widget
 Schema | Default Form type
 --- | ---
 "type": "boolean" | Bootstrap switch
+
+## Example
+Below a Javascript example
+### Schema
+`
+{
+  type: "object",
+  properties: {
+    isActive: {
+      "title": "Is Active",
+      "type": "boolean"
+    }
+  }
+}
+`
+### Form
+`
+{
+  key: "isActive",
+  type: "switch"
+}
+`
