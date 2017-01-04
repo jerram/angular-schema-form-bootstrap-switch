@@ -14,3 +14,17 @@ You'll need to load a few additional files to use bootstrap switch in this order
 * [Bootstrap](http://getbootstrap.com) CSS
 * The [bootstrap switch](https://github.com/nostalgiaz/bootstrap-switch) switch source files
 * The [bootstrap switch](https://github.com/nostalgiaz/bootstrap-switch) switch CSS
+ 
+You can also install the module with bower
+`$ bower install angular-schema-form-datepicker`
+
+## Usage
+The datepicker add-on adds a new form type, switch.
+
+Form Type | Becomes
+--- | ---
+switch | a pickadate widget
+
+Schema | Default Form type
+--- | ---
+"type": "boolean" | Bootstrap switch
