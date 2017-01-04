@@ -30,7 +30,6 @@ Schema | Default Form type
 "type": "boolean" | Bootstrap switch
 
 ## Example
-Below a Javascript example
 ### Schema
 ```
 {
