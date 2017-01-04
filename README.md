@@ -32,7 +32,7 @@ Schema | Default Form type
 ## Example
 Below a Javascript example
 ### Schema
-`
+```
 {
   type: "object",
   properties: {
@@ -42,11 +42,11 @@ Below a Javascript example
     }
   }
 }
-`
+```
 ### Form
-`
+```
 {
   key: "isActive",
   type: "switch"
 }
-`
+```
