@@ -2,7 +2,7 @@
   "name": "angular-schema-form-bootstrap-switch",
   "version": "0.1.0",
   "description": "This plugin is adapting the bootstrap switch widget to the angular schema form",
-  "main": "gulpfile.js",
+  "main": "dist\\angular-schema-form-bootstrap-switch.min.js",
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.1",
