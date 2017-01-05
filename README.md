@@ -4,7 +4,7 @@ This is an add-on for [Angular Schema Form](https://github.com/json-schema-form/
 
 [![Build Status](https://travis-ci.org/JChampigny/angular-schema-form-bootstrap-switch.svg?branch=master)](https://travis-ci.org/JChampigny/angular-schema-form-bootstrap-switch)
 
-This is an adaptation of the [Bootstrap Switch](https://github.com/nostalgiaz/bootstrap-switch) to enable toggles in place of checboxes or radio buttons.
+This is an adaptation of the [Bootstrap Switch](https://github.com/nostalgiaz/bootstrap-switch) to enable toggles in place of checkboxes or radio buttons.
 
 ## Installation
 The bootstrap switch is an add-on to the Bootstrap decorator. To use it, just include bootstrap-switch.min.js after bootstrap-decorator.min.js.
