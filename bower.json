@@ -1,7 +1,7 @@
 {
   "name": "angular-schema-form-bootstrap-switch",
-  "main": "dist/angular-schema-form-bootstrap-switch.min.js",
-  "homepage": "https://github.com/JChampigny/angular-schema-form-bootstrap-switch",
+  "main": "dist/angular-schema-form-bootstrap-switch.js",
+  "homepage": "https://github.com/jerram/angular-schema-form-bootstrap-switch",
   "description": "This plugin is adapting the bootstrap switch widget to the angular schema form",
   "keywords": [
     "angular",
@@ -11,7 +11,8 @@
     "plugin"
   ],
   "authors": [
-    "jerome champigny"
+    "jerome champigny",
+    "jerram watters"
   ],
   "license": "MIT",
   "ignore": [
